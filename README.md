@@ -20,3 +20,10 @@ The bot is designed to provide basic management of a referral link system. Follo
 
 ## Usage
 In private chat, use the command `/CreateLink` to obtained a personalized referral link. Share it with your friends. When a user joins the group using the link, the administrator receives a notification with the relevant information.
+
+***
+### Important Note
+**This is a draft. It has not been extensively tested and does not handle errors in any way.**
+
+### TODO
+It could integrate a database to keep track of all the links and the number of people invited by every member.
